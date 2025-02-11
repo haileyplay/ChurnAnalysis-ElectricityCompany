@@ -1,4 +1,4 @@
-# Churn Analysis for a Fictitious Electricity Company
+# Churn Analysis for Electricity Company
 This is an assignment done during my master study about data analysis  where R coding language is applied. A dataset of 20,000 customers with information on their demographics, houses, energy usage, contract period, and churn behavior is provided. 
 
 ## Features
