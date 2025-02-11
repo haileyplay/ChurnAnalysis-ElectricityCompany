@@ -7,7 +7,7 @@ This is an assignment done during my master study about data analysis  where R c
 - **Data Preparation**: Prepare clean data in the correct formate for further analysis. Also to eliminate outliers to achieve normal distribution
 - **Graphs and Summary Statistics**: Histograms, blox plots are applied to visualize data distribution
 - **Statistical Test**:Statistical analyses were performed to explore for interesting patterns in the relationship between the variables in the analysis and Churn
-- 
+  
 ## Key Libraries used
 library(tidyverse) 
 library(caret)
