@@ -1,7 +1,7 @@
 # Churn Analysis for Electricity Company
 This is an assignment done during my master study about data analysis  where R coding language is applied. A dataset of 20,000 customers with information on their demographics, houses, energy usage, contract period, and churn behavior is provided. 
 
-**Business Problem**: High customer churn rate affects company profitability and growth. We applied statistical analysis to understand the reason for customer churn
+**Business Problem**: High customer churn rate affects company profitability and growth. We applied statistical analysis and visualisation to understand the reason for customer churn.
 
 
 ## Features
@@ -12,32 +12,32 @@ This is an assignment done during my master study about data analysis  where R c
 - **Statistical Test**: Statistical analyses were performed to explore for interesting patterns in the relationship between the variables in the analysis and Churn
   
 ## Key Libraries used
-library(tidyverse) 
-library(caret)
-library(plyr)
-library(dplyr) 
-library(reshape2)
-library(grid)
-library(gridExtra) 
-library(kableExtra) 
-library(formattable) 
-library(scales)
-library(ltm)
-library(ROSE)
-library(foreign) 
-library(ggplot2)
-library(ggstatsplot)
-library(tidyr)
-library(survival) 
-library(lattice) 
-library(Formula) 
-library(Hmisc)
-library(HH)
-library(base)
-library(ggthemes) 
-library(MASS)
-library(party) 
-library(performanceEstimation)
-library(ROCR)
-library(MASS)
+-library(tidyverse) 
+-library(caret)
+-library(plyr)
+-library(dplyr) 
+-library(reshape2)
+-library(grid)
+-library(gridExtra) 
+-library(kableExtra) 
+-library(formattable) 
+-library(scales)
+-library(ltm)
+-library(ROSE)
+-library(foreign) 
+-library(ggplot2)
+-library(ggstatsplot)
+-library(tidyr)
+-library(survival) 
+-library(lattice) 
+-library(Formula) 
+-library(Hmisc)
+-library(HH)
+-library(base)
+-library(ggthemes) 
+-library(MASS)
+-library(party) 
+-library(performanceEstimation)
+-library(ROCR)
+-library(MASS)
 
