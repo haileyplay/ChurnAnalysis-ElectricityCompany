@@ -10,7 +10,7 @@ This is an assignment done during my master study about data analysis  where R c
   
 - **Data Preparation**: Prepare clean data in the correct formate for further analysis. Also to eliminate outliers to achieve normal distribution
   ![alt text](https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/1_Table.png?=25x30)
-  <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/1_Table.png" width="250" height="150">
+  <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/1_Table.png" width="500" height="300">
   
 - **Graphs and Summary Statistics**: Histograms, blox plots are applied to visualize data distribution
   
