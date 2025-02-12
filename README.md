@@ -9,7 +9,7 @@ This is an assignment done during my master study about data analysis  where R c
 - **Hypothesis**: 6 hypotheses are derived on the relationship between relationship length, gender, age, income, contract type, acquisition channel, and churn
 - **Data Preparation**: Prepare clean data in the correct formate for further analysis. Also to eliminate outliers to achieve normal distribution
 - **Graphs and Summary Statistics**: Histograms, blox plots are applied to visualize data distribution
-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+- ![alt text](https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/1_G5ieVdxoyCAeolYUntPS9A.png?raw=true)
 - **Statistical Test**: Statistical analyses were performed to explore for interesting patterns in the relationship between the variables in the analysis and Churn
   
 ## Library
