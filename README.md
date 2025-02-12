@@ -9,19 +9,13 @@ This is an assignment done during my master study about data analysis  where R c
 - **Hypothesis**: 6 hypotheses are derived on the relationship between relationship length, gender, age, income, contract type, acquisition channel, and churn
   
 - **Data Preparation**: Prepare clean data in the correct formate for further analysis. Also to eliminate outliers to achieve normal distribution
-  ![alt text](https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/1_Table.png?=25x30)
   <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/1_Table.png" width="700" height="400">
   
 - **Graphs and Summary Statistics**: Histograms, blox plots are applied to visualize data distribution
     <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/2.%20Histogram.png" width="700" height="466">
     <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/3.%20Historam.png" width="700" height="400">
     <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/4.%20Boxplot.png" width="700" height="400">
-    <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/6.%20Correlation.png" width="600" height="600">
-  
-![alt text](https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/2.%20Histogram.png?raw=false)
-![alt text](https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/3.%20Historam.png?raw=false)
-![alt text](https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/4.%20Boxplot.png?raw=false)
-![alt text](https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/6.%20Correlation.png?raw=true)
+    <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/6.%20Correlation.png" width="700" height="700">
 
 - **Statistical Test**: Statistical analyses were performed to explore for interesting patterns in the relationship between the variables in the analysis and Churn
   
