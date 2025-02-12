@@ -15,7 +15,7 @@ This is an assignment done during my master study about data analysis  where R c
     <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/2.%20Histogram.png" width="700" height="466">
     <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/3.%20Historam.png" width="700" height="400">
     <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/4.%20Boxplot.png" width="700" height="400">
-    <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/6.%20Correlation.png" width="700" height="700">
+    <img src="https://github.com/haileyplay/ChurnAnalysis-ElectricityCompany/blob/main/6.%20Correlation.png" width="700" height="650">
 
 - **Statistical Test**: Statistical analyses were performed to explore for interesting patterns in the relationship between the variables in the analysis and Churn
   
